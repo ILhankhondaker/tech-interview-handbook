@@ -59,7 +59,7 @@
     "@types/react-pdf": "^5.7.2",
     "autoprefixer": "^10.4.12",
     "csv": "^6.2.2",
-    "postcss": "^8.4.16",
+    "postcss": "^8.5.23",
     "prettier-plugin-tailwindcss": "^0.1.13",
     "prisma": "^4.4.0",
     "ts-node": "^10.9.1",
