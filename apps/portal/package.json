@@ -27,7 +27,7 @@
     "@trpc/next": "^9.27.2",
     "@trpc/react": "^9.27.2",
     "@trpc/server": "^9.27.2",
-    "axios": "^1.1.2",
+    "axios": "^1.18.0",
     "clsx": "^1.2.1",
     "cross-fetch": "^3.1.5",
     "date-fns": "^2.29.3",
